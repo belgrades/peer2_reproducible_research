@@ -1,5 +1,4 @@
 PLEASE OPEN THE HTML OR RMD FROM YOUR COMPUTER
-
 =======================
 # Update: Open the link below (Pandoc finally worked, 53 minutes later)
 
